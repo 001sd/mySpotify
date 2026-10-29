@@ -1,0 +1,5 @@
+songs/*
+!songs/.gitkeep
+users_cloud/*
+!users_cloud/.gitkeep
+db.php
